@@ -1,2 +1,2 @@
-# googleclone.githubpages.io
-google Clone
+# Googleclone.githubpages.io
+Google Clone
